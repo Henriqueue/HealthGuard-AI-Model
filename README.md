@@ -34,6 +34,7 @@ Democratizar a triagem de saúde, oferecendo um "radar" que alerta pacientes sob
 ### Pré-requisitos
 Certifique-se de ter o Python instalado.
 
+0. **Extraia os arquivos zipados**
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/SEU-USUARIO/healthguard-ai.git](https://github.com/SEU-USUARIO/healthguard-ai.git)
